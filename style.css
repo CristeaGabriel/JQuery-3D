@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body {
@@ -12,6 +11,6 @@ body {
     position: relative;
     width: 480px;
     height: 480px;
-    left: 0vh;
-    top: 10vh;
+    right: 0%;
+    top: 10%;
 }

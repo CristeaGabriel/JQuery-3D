@@ -7,10 +7,3 @@ body {
     background-color: black;
 }
 
-.container {
-    position: relative;
-    width: 480px;
-    height: 480px;
-    right: 0%;
-    top: 10%;
-}
